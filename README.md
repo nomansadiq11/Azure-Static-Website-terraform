@@ -1,4 +1,4 @@
-# Azure-Static-Website-terraform
+# Static website on Azure Storage Account using Terraform
 This will have all the information how to create static website configuration in azure using storage account
 
 
